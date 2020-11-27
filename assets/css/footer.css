@@ -1,0 +1,18 @@
+/**/
+
+.footerM {
+    background: linear-gradient(#494949, #202020);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 65px;
+}
+
+.footerM {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+}
