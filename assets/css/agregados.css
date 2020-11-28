@@ -36,3 +36,24 @@
     margin-left: 10px;
     margin-top: 0px;
 }
+.cuadroHover:hover{
+    transition: all 0.4s;
+    background: #ca0028;
+}
+
+.cuadroHover:hover h3{
+    transition: all 0.4s;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.cuadroHover:hover p{
+    transition: all 0.4s;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.cuadroHover:hover a{
+    transition: all 0.4s;
+    color: #FFFFFF;
+    font-weight: bold;
+}
