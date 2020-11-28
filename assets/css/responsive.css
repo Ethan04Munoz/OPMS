@@ -1,0 +1,47 @@
+/**/
+@media screen and (max-width: 800px){
+    .footerM {
+        color: #FFFFFF;
+        font-size: 8px;
+        font-weight: bold;
+    }
+    
+    .redsocialimg {
+        width: 15px;
+        margin-right: 8px;
+        margin-top: 0px;
+    }
+    .textoMMM{
+        margin-left: 2%;
+        font-size: 8px;
+        font-weight: 200;
+    }
+    .realizadaPor{
+        margin-left: 2%;
+        font-size: 8px;
+        font-weight: 200;
+    }
+}
+@media screen and (max-width: 1200px){
+    .footerM {
+        color: #FFFFFF;
+        font-size: 8px;
+        font-weight: bold;
+    }
+    
+    .redsocialimg {
+        width: 18px;
+        margin-right: 8px;
+        margin-top: 0px;
+    }
+    .textoMMM{
+        margin-left: 20%;
+        font-size: 12px;
+        font-weight: 200;
+    }
+    .realizadaPor{
+        margin-left: 2%;
+        font-size: 12px;
+        font-weight: 200;
+    }
+}
